@@ -1,0 +1,3 @@
+[submodule "self_reward"]
+	path = self_reward
+	url = ./self_reward
